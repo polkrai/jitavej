@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//grails-app/controllers/OrderController.groovy=UTF-8
+encoding//grails-app/controllers/ReportController.groovy=UTF-8
+encoding//grails-app/domain/Order.groovy=UTF-8
+encoding//web-app/reports/lab.jrxml=UTF-8
+encoding//web-app/reports/lab2.jrxml=UTF-8
+encoding//web-app/reports/refer2.jasper=UTF-8
+encoding//web-app/reports/refer2.jrxml=UTF-8
+encoding/<project>=UTF-8

@@ -1,0 +1,1 @@
+grails -Dserver.port=8088 -Denable.jndi=true -Ddisable.auto.recompile=true run-app

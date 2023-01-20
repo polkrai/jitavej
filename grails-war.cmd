@@ -1,0 +1,1 @@
+rm jitavej.war && grails war && mv jitavej-0.1.war jitavej.war
